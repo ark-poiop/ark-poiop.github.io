@@ -1,17 +1,17 @@
-title: "Ark-poiop Blog"
-description: "Minimal Mistakes 스타일 블로그"
+title: "포이옵의 블로그"
+description: "Minimal Mistakes 스타일 블로그 (로컬 테마)"
 url: "https://ark-poiop.github.io"
 baseurl: ""
 
-remote_theme: "mmistakes/minimal-mistakes"
+theme: null
 minimal_mistakes_skin: "default"
 locale: "ko-KR"
 
-show_sidebar_nav: true 
+show_sidebar_nav: true
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-paginate
+  - jekyll-seo-tag
 
 paginate: 5
 paginate_path: /page:num/
