@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-<h1> 📧 Email: [guta8703@gmail.com]  </h1>
+<h2> 📧 Email: [guta8703@gmail.com]  </h2>
 <h1> 🐦 Twitter: BUZZZZ  </h1>
 <h1> 💼 LinkedIn: [✈](https://www.linkedin.com/in/sungmin-yang-b62471139/)  </h1>
 <h1> 🌐 GitHub: [https://github.com/yourgithub](https://ark-poiop.github.io/)  </h1>
