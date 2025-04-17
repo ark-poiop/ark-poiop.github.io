@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+</head>
+<body>
+  <div class="container">
+    <aside class="sidebar">
+      <h2>{{ site.title }}</h2>
+      <p>{{ site.description }}</p>
+      <nav>
+        <ul>
+          <li><a href="{{ '/' | relative_url }}">Blog</a></li>
+          <li><a href="{{ '/about.html' | relative_url }}">About</a></li>
+          <li><a href="{{ '/portfolio.html' | relative_url }}">Portfolio</a></li>
+          <li><a href="{{ '/contact.html' | relative_url }}">Contact</a></li>
+        </ul>
+      </nav>
+    </aside>
+    <main class="content">
+      {{ content }}
+    </main>
+  </div>
+</body>
+</html>
