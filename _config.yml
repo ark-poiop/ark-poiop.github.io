@@ -1,0 +1,20 @@
+title: "포이옵의 블로그"
+description: "기록하고 공유하는 공간입니다."
+url: "https://ark-poiop.github.io"
+baseurl: ""
+
+theme: null
+locale: "ko-KR"
+show_sidebar_nav: true
+
+author:
+  name: "포이옵"
+  avatar: "/assets/images/profile.png"
+  bio: "실패해도 도전하는 블로거입니다."
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+paginate: 5
+paginate_path: /page:num/
