@@ -4,4 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-연락처 페이지입니다.
+📧 Email: [guta8703@gmail.com]  
+🐦 Twitter: BUZZZZ
+💼 LinkedIn: [linkedin.com/in/](https://www.linkedin.com/in/sungmin-yang-b62471139/)
+🌐 GitHub: [github.com/yourgithub](https://github.com/yourgithub)
