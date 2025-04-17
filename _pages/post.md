@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Post"
+title: Post
 permalink: /post/
 ---
 

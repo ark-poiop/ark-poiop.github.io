@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "홈"
+title: Home
 ---
 
-블로그에 오신 것을 환영합니다.
+여기는 포이옵의 블로그 메인입니다.
